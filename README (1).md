@@ -124,6 +124,6 @@ TWS-orders-placement-via-TradingView-webhooks/
 ---
 
 ## 👨‍💻 Author
-**Kamran Ali (SaifyTech Ltd.)**  
+**Kamran Ali (Kamran Ali Developer.)**  
 💼 Trading Automation & API Developer  
-📧 kamranexpert786@gmail.com  
+📧 kamranalideveloper@gmail.com  
